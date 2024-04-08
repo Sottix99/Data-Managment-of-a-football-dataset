@@ -25,6 +25,7 @@ The [dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores) is com
 - 300.000+ player market valuations historical records
 - 1.000.000+ player appearance records from all games
 
+The structure of the original dataset was modified. First, pre-processing operations regarding changing the type of the various columns were applied. In addition, some tables were deleted or merged together with others to arrive at a more correct and useful schema for the purposes of the homework.
 
 <div style="text-align:center">
  <p align="center">
@@ -32,9 +33,20 @@ The [dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores) is com
   
   </p>
   <p align="center">
-   Figure 1: Schema
+   Figure 1: Schema for HW1 and HW2
   </p>
 </div>
+
+<div style="text-align:center">
+ <p align="center">
+  <img src='img/Schema.png'/>
+  
+  </p>
+  <p align="center">
+   Figure 2: Structure of NOSQL dataset
+  </p>
+</div>
+
 
 
 
