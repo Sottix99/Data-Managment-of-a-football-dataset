@@ -43,7 +43,7 @@ The structure of the original dataset was modified. First, pre-processing operat
   
   </p>
   <p align="center">
-   Figure 2: Structure of NOSQL dataset
+   Figure 2: Structure of NOSQL dataset (HW3)
   </p>
 </div>
 
