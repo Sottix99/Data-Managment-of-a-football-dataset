@@ -18,7 +18,7 @@ This Repository refers to the Homeworks of the course Data Management (DM) at Un
   
   </p>
   <p align="center">
-   Figure 1: Input data
+   Figure 1: Schema
   </p>
 </div>
 
