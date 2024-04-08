@@ -6,7 +6,6 @@
   
   </p>
   <p align="center">
-   Figure 1: Input data
   </p>
 </div>
 
@@ -15,7 +14,7 @@ This Repository refers to the Homeworks of the course Data Management (DM) at Un
 # Abstract
 <div style="text-align:center">
  <p align="center">
-  <img src='img/schema.png'/>
+  <img src='img/Schema.png'/>
   
   </p>
   <p align="center">
