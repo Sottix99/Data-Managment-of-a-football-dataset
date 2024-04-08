@@ -14,7 +14,7 @@ This Repository refers to the Homeworks of the course Data Management (DM) at Un
 ## Abstract
 Condensed in this repo are the 3 homeworks done during the course. 
 In the first one, the goal was to build a football data management system and test its operation by querying it with 10 queries.  In the second homework, the goal was to try to optimize the previously created schema and do the same with 4 queries chosen from the previous 10. In the last homework, on the other hand, the goal was to recreate the same schema, in NOSQL version on NEo4j.  
-
+ 
 
 ## Dataset
 The [dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores) is composed of multiple CSV files with information on competitions, games, clubs, players and appearances that is automatically updated once a week. It includes:
