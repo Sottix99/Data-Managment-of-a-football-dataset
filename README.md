@@ -39,7 +39,7 @@ The structure of the original dataset was modified. First, pre-processing operat
 
 <div style="text-align:center">
  <p align="center">
-  <img src='img/Schema.png'/>
+  <img src='img/grafo.png'/>
   
   </p>
   <p align="center">
