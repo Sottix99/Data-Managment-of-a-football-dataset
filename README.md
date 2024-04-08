@@ -2,7 +2,8 @@
 
 <div style="text-align:center">
  <p align="center">
-  <img src='img/calcio.jpg' width="700" height="250" />
+  <img src='img/calcio.jpg'/>
+  
   </p>
   <p align="center">
    Figure 1: Input data
